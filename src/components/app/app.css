@@ -1,0 +1,64 @@
+
+.content div {
+  width: 60px;
+  height: 60px;
+  padding: 22px;
+  margin: 10px;
+  /* border: 1px solid rgb(70, 70, 70); */
+}
+.content-wrap  {
+ 
+}
+.content {
+  display: flex;
+  margin-top: 40px;
+    width: 100%;
+  max-width: 600px;
+  flex-wrap: wrap;
+}
+
+.red {
+  background-color: rgb(226, 0, 19);
+}
+
+.blue {
+  background-color: rgb(3, 3, 58);
+}
+.violet {
+  background-color: rgb(107, 0, 107);
+}
+.pink {
+  background-color: rgb(255, 51, 85);
+}
+.black {
+  background-color: black;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: rgb(85, 216, 25);
+
+}
+.gray {
+  background-color: rgb(179, 159, 159);
+}
+
+[coloring="white"] {
+  background-color: #fff;
+
+}
+.close {
+   background-color: #fc0;
+}
+
+.info {
+  display: block;
+  width: 100%;
+}
+
+
+.done {
+  background-color: rgb(32, 3, 3);
+}
+
